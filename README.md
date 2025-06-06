@@ -7,6 +7,8 @@
 
 ---
 
+# LINK VIDEO: https://www.youtube.com/watch?v=bhFrP2f4oms&ab_channel=GuilhermeDal
+
 ## 🛑 Descrição do Problema
 
 As quedas de energia em ambientes urbanos podem causar transtornos significativos à segurança pública, à mobilidade e ao funcionamento de serviços essenciais. No entanto, a identificação automática e em tempo real desses eventos em áreas externas — como ruas e avenidas — ainda é um desafio, principalmente devido à dificuldade de monitorar a iluminação pública de forma precisa.
